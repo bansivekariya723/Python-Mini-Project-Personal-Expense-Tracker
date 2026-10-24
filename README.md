@@ -1,7 +1,7 @@
 # Personal Expense Tracker
 
-Name : Bansi Vekariya
-Enrollno. 12402080601016
+## Name : Bansi Vekariya
+## Enrollno. 12402080601016
 A clean, lightweight desktop application built with Python using **Tkinter** and **SQLite3**.
 
 ## 📌 Features
