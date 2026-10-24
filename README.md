@@ -1,5 +1,7 @@
 # Personal Expense Tracker
 
+Name : Bansi Vekariya
+Enrollno. 12402080601016
 A clean, lightweight desktop application built with Python using **Tkinter** and **SQLite3**.
 
 ## 📌 Features
@@ -19,7 +21,4 @@ A clean, lightweight desktop application built with Python using **Tkinter** and
    python expense_tracker.py
    ```
 
----
-
-## 💡 How to Explain in a Viva / Presentation (30 Seconds)
-> *"This project is a Personal Expense Tracker built using Python's built-in `tkinter` module for the user interface and `sqlite3` for local data persistence. It performs full CRUD operations: users can add expenses, view them in an organized table, delete unwanted records, and monitor their total spending. The application validates user inputs to ensure data accuracy."*
+--
